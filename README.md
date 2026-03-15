@@ -176,7 +176,7 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 ---
 
-# ❤️ 
+
 
 <p align="center">
 <a>
@@ -186,6 +186,6 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 </p>
 
-
+s
 ---
 
