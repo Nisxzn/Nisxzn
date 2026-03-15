@@ -77,14 +77,14 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,xampp,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,andriodstudio,powerbi" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,andriod studio,power bi" />
 </td>
 </tr>
 </table>
