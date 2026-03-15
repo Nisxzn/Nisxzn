@@ -176,17 +176,16 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 ---
 
-# ❤️ Support Me
+# ❤️ 
 
 <p align="center">
 
-<a href="https://www.buymeacoffee.com/midhun_mike">
-
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+⭐ From <b>Nithish Parameswaran</b> — Building AI-powered digital experiences.
 
 </a>
 
 </p>
+
 
 ---
 
