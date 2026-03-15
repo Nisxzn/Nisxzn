@@ -9,7 +9,7 @@
 
 <div align="left">
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p>
 I'm a developer passionate about building <b>AI-powered, mobile, and full-stack applications</b>.  
@@ -47,7 +47,7 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 <p align="left">
 
 <a href="https://dev.to/nithish_parameswaran_">
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/nithish">
@@ -68,7 +68,7 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Nisxzn&style=flat-square&color=blue" alt="Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=Nisxzn&style=flat-square&color=blue" alt="Profile views"/>
 
 ---
 
@@ -84,7 +84,7 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,c,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,c,js,html,css"/>
 
 </td>
 
@@ -92,7 +92,7 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 ### ⚙️ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap"/>
 
 </td>
 
@@ -104,10 +104,17 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 ### 🧠 AI / Data Technologies
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge&logo=python"/>
 
-Machine Learning • NLP • Computer Vision  
-RAG Systems • Agentic AI • Data Analysis
+<img src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-0A0A0A?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/RAG%20Systems-0A0A0A?style=for-the-badge&logo=databricks"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-0A0A0A?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-0A0A0A?style=for-the-badge&logo=powerbi"/>
 
 </td>
 
@@ -115,7 +122,7 @@ RAG Systems • Agentic AI • Data Analysis
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 
 </td>
 
@@ -127,17 +134,19 @@ RAG Systems • Agentic AI • Data Analysis
 
 ### ☁️ Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,git,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,git,vscode,docker"/>
 
 </td>
 
 <td width="50%" align="center">
 
-### 📱 Development Areas
+### 🚀 Development Areas
 
-Full Stack Development  
-Mobile App Development  
-AI Application Development
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-0A0A0A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Mobile%20App%20Development-0A0A0A?style=for-the-badge&logo=android"/>
+
+<img src="https://img.shields.io/badge/AI%20Application%20Development-0A0A0A?style=for-the-badge&logo=openai"/>
 
 </td>
 
@@ -155,7 +164,11 @@ AI Application Development
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<br/>
+
 <img src="https://github-readme-streak-stats.demolab.com?user=Nisxzn&theme=tokyonight&hide_border=true"/>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true"/>
 
