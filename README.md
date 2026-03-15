@@ -5,110 +5,176 @@
   Hi, I'm <strong>Nithish Parameswaran</strong>
 </h1>
 
-<h3>Full Stack Developer • AI/ML developer | RAG • Agentic AI • Data Analysis</h3>
+<h3>AI/ML Engineer • Full Stack Developer • RAG Systems • Agentic AI • Data Analysis</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
-    I'm a developer passionate about building AI-powered, mobile, and full-stack applications.
-    From RAG systems and machine learning models to scalable APIs and intuitive mobile apps, I turn ideas into intelligent and impactful products.
-  </p>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:nithishparameswaran2005@gmail.com"><img src="https://img.shields.io/badge/📧_nithishparameswaran2005@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://dev.to/nithish_parameswaran_">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/nithish">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Nisxzn">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/_nisxzn_">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/nithishparameswaran">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-  
+<p>
+I'm a developer passionate about building <b>AI-powered, mobile, and full-stack applications</b>.  
+From <b>RAG systems and machine learning models</b> to scalable APIs and intuitive mobile apps, I turn ideas into intelligent and impactful digital products.
 </p>
 
+<p>
+I enjoy working across <b>AI, computer vision, NLP, and modern web technologies</b> to create solutions that are practical, scalable, and user-focused.
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+<p>
+
+<img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+
+<a href="mailto:nithishparameswaran2005@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge"/>
+</a>
+
+<a href="https://nisxzn.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge"/>
+
+</p>
+
 </div>
 
 <br clear="all" />
 
+---
 
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+# 🌐 Connect With Me
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,php,c,javacript" />
-<br/><br/>
+<p align="left">
 
-</td>
+<a href="https://dev.to/nithish_parameswaran_">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white"/>
+</a>
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap" />
-</td>
+<a href="https://discord.com/users/nithish">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
+<a href="https://github.com/Nisxzn">
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://instagram.com/_nisxzn_">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-<br/><br/>
+<a href="https://linkedin.com/in/nithishparameswaran">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode" />
-</td>
-</tr>
-</table>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Nisxzn&style=flat-square&color=blue" alt="Profile Visit"/>
 
+---
 
+# 🚀 Tech Stack
 
+<p align="center">
 
+<table>
 
-## 📊 GitHub Stats
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,c,js,html,css" />
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚙️ Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🧠 AI / Data Technologies
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+Machine Learning • NLP • Computer Vision  
+RAG Systems • Agentic AI • Data Analysis
+
+</td>
+
+<td width="50%" align="center">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ☁️ Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,vscode" />
+
+</td>
+
+<td width="50%" align="center">
+
+### 📱 Development Areas
+
+Full Stack Development  
+Mobile App Development  
+AI Application Development
+
+</td>
+
+</tr>
+
+</table>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Nisxzn&theme=dark&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=Nisxzn&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## ❤️ Support Me
+# ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
+
+<a href="https://www.buymeacoffee.com/midhun_mike">
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+
+</a>
+
 </p>
 
+---
+
+⭐ From <b>Nithish Parameswaran</b> — Building AI-powered digital experiences.
