@@ -84,7 +84,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,andriod studio,power bi" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,andriodstudio,powerbi" />
 </td>
 </tr>
 </table>
@@ -99,7 +99,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Nisxzn&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
