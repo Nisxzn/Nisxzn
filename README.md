@@ -171,9 +171,6 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Nisxzn/Nisxzn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
