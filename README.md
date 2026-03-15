@@ -180,7 +180,7 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 <p align="center">
 
-⭐ From <b>Nithish Parameswaran</b> — Building AI-powered digital experiences.
+<b>Nithish Parameswaran</b> — Building AI-powered digital experiences.
 
 </a>
 
