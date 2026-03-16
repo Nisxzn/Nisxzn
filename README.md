@@ -5,7 +5,7 @@
   Hi, I'm <strong>Nithish Parameswaran</strong>
 </h1>
 
-<h3>AI/ML Engineer • Full Stack Developer • RAG Systems • Agentic AI • Data Analysis</h3>
+<h3>AI/ML Engineer • Full Stack Developer | RAG Systems • Agentic AI • Data Analysis</h3>
 
 <div align="left">
 
@@ -165,7 +165,6 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 <img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br/>
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true"/>
 
