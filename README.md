@@ -162,12 +162,9 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
