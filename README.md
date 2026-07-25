@@ -28,7 +28,7 @@ I enjoy working across <b>AI, computer vision, NLP, and modern web technologies<
 <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge"/>
 </a>
 
-<a href="https://nisxzn.netlify.app/">
+<a href="https://nithish.is-a.dev/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge"/>
 </a>
 
