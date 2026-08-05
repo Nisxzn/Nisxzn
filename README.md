@@ -162,7 +162,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
