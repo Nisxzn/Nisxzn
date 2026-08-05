@@ -12,12 +12,12 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p>
-I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generation (RAG) </b> systems to modern web applications, data-driven platforms, and automation tools, I enjoy turning ideas into scalable, impactful products.
+I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Gener[...]
 
 </p>
 
 <p>
-My interests include <b>Artificial Intelligence, Data Science, Machine Learning, Software Development, and full-stack development.</b> I focus on creating practical, user-centered applications that combine data, intelligence, and engineering to deliver real-world impact.
+My interests include <b>Artificial Intelligence, Data Science, Machine Learning, Software Development, and full-stack development.</b> I focus on creating practical, user-centered applications tha[...]
 </p>
 
 <p>
@@ -162,9 +162,12 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<p align="center">
+<img src="https://img.shields.io/github/stars/Nisxzn/Nisxzn?style=for-the-badge" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Nisxzn/Nisxzn?style=for-the-badge" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Nisxzn/Nisxzn?style=for-the-badge" alt="Top Language" />
+<img src="https://img.shields.io/github/last-commit/Nisxzn/Nisxzn?style=for-the-badge" alt="Last Commit" />
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisxzn&theme=tokyonight&hide_border=true"/>
 
@@ -182,4 +185,3 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 
 ---
-
