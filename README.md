@@ -12,12 +12,12 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p>
-I'm a developer passionate about building <b>AI-powered, mobile, and full-stack applications</b>.  
-From <b>RAG systems and machine learning models</b> to scalable APIs and intuitive mobile apps, I turn ideas into intelligent and impactful digital products.
+I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generation (RAG) </b> systems to modern web applications, data-driven platforms, and automation tools, I enjoy turning ideas into scalable, impactful products.
+
 </p>
 
 <p>
-I enjoy working across <b>AI, computer vision, NLP, and modern web technologies</b> to create solutions that are practical, scalable, and user-focused.
+My interests include <b>Artificial Intelligence, Data Science, Machine Learning, Software Development, and full-stack development.</b> I focus on creating practical, user-centered applications that combine data, intelligence, and engineering to deliver real-world impact.
 </p>
 
 <p>
