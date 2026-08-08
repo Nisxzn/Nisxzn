@@ -12,12 +12,12 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p>
-I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Gener[...]
+I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generater.
 
 </p>
 
 <p>
-My interests include <b>Artificial Intelligence, Data Science, Machine Learning, Software Development, and full-stack development.</b> I focus on creating practical, user-centered applications tha[...]
+My interests include <b>Artificial Intelligence, Data Science, Machine Learning, Software Development, and full-stack development.</b> I focus on creating practical, user-centered applications that solves Real world problem.
 </p>
 
 <p>
