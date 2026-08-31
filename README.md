@@ -176,10 +176,10 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 ---
 
 <div align="center">
-<a>
-<strong>Nithish Parameswaran</strong> — Building AI-powered digital experiences.
 
-</a>
+# <strong>Nithish Parameswaran</strong> — Building AI-powered digital experiences.
+
+
 
 </div>
 
