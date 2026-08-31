@@ -9,7 +9,7 @@
 
 <div align="left">
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 <p>
 I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generater.
