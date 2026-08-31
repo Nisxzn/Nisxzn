@@ -9,7 +9,7 @@
 <div align="left">
 <h3>AI/ML Engineer • Full Stack Developer | RAG Systems • Agentic AI • Data Analysis</h3>
 
-<img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkMG1pdm9reHBkOGpoOHVtNWxzZnMwbWxzZGxpY3V6cmpoNTk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqThAj0QKPxH7uzjpR/giphy.gif"/> 
+<img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkMG1pdm9reHBkOGpoOHVtNWxzZnMwbWxzZGxpY3V6cmpoNTk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqThAj0QKPxH7uzjpR/giphy.gif"/> 
 
 <p>
 I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generater.
