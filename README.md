@@ -5,11 +5,11 @@
   Hi, I'm <strong>Nithish Parameswaran</strong>
 </h1>
 
-<h3>AI/ML Engineer • Full Stack Developer | RAG Systems • Agentic AI • Data Analysis</h3>
 
 <div align="left">
+<h3>AI/ML Engineer • Full Stack Developer | RAG Systems • Agentic AI • Data Analysis</h3>
 
-<!-- <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
+<img align="right" width="350" src="https://private-user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgxNTU1MTIsIm5iZiI6MTc4ODE1NTIxMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA4NjMtYzU1MmJlMzktMjVhYS00ZjVhLTg0MjEtNTRhYTExZjcxMzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA1NDY1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2NjUyZWZkN2I1ODk3MDUzMmE3MjA4ZmQwNGEwNmRjN2ExNDc2NThmOTZlYjJkYzgwZDNlYmE2MTEwYTEwNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.y3oxK6h8iVm6uRFeBCdJ-b4CTC7ET1z6RHeLzcVj3W4"/> 
 
 <p>
 I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generater.
