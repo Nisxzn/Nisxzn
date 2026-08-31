@@ -42,7 +42,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -72,7 +72,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -82,7 +82,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,php,c,js,html,css"/>
 
@@ -90,7 +90,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap"/>
 
@@ -102,7 +102,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### 🧠 AI / Data Technologies
+### AI / Data Technologies
 
 <img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge&logo=python"/>
 
@@ -120,7 +120,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### 🗄️ Databases
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 
@@ -132,7 +132,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,git,vscode,docker"/>
 
@@ -140,7 +140,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### 🚀 Development Areas
+### Development Areas
 
 <img src="https://img.shields.io/badge/Full%20Stack%20Development-0A0A0A?style=for-the-badge&logo=react"/>
 
@@ -158,7 +158,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -175,13 +175,13 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ---
 
-<p align="center">
+<div align="center">
 <a>
 <strong>Nithish Parameswaran</strong> — Building AI-powered digital experiences.
 
 </a>
 
-</p>
+</div>
 
 
----
+
