@@ -162,18 +162,18 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <div align="center">
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/github/stars/Nisxzn/Nisxzn?style=for-the-badge" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Nisxzn/Nisxzn?style=for-the-badge" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Nisxzn/Nisxzn?style=for-the-badge" alt="Top Language" />
 <img src="https://img.shields.io/github/last-commit/Nisxzn/Nisxzn?style=for-the-badge" alt="Last Commit" />
-</p>
+</p> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisxzn&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
+---
 
 <p align="center">
 <a>
