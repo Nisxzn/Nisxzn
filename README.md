@@ -91,7 +91,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap,threejs"/>
 
 </td>
 
@@ -103,7 +103,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### AI / Data Technologies
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,postgres"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv"/>
 
 </td>
 
@@ -111,7 +111,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase"/>
 
 </td>
 
@@ -123,7 +123,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,git,vscode,docker,linux"/>
+<img src="https://skillicons.dev/icons?i=aws,git,vscode,docker,androidstudio,cloudflare"/>
 
 </td>
 
@@ -131,7 +131,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### Development Areas
 
-<img src="https://skillicons.dev/icons?i=fastapi,jupyter,anaconda,github,bash"/>
+<img src="https://skillicons.dev/icons?i=fastapi,anaconda,github,linux,bash"/>
 
 </td>
 
@@ -147,13 +147,9 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisxzn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nisxzn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophy" />
 
 </div>
 
@@ -161,6 +157,6 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <div align="center">
 
-### <strong>Nithish Parameswaran</strong> — Building AI-powered digital experiences.
+### <strong>Nisxzn</strong> — Building AI-powered digital experiences.
 
 </div>
