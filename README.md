@@ -9,15 +9,14 @@
 <div align="left">
 <h3>AI/ML Engineer • Full Stack Developer | RAG Systems • Agentic AI • Data Analysis</h3>
 
-<img align="right" width="275" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkMG1pdm9reHBkOGpoOHVtNWxzZnMwbWxzZGxpY3V6cmpoNTk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqThAj0QKPxH7uzjpR/giphy.gif"/> 
+<img align="right" width="275" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkMG1pdm9reHBkOGpoOHVtNWxzZnMwbWxzZGxpY3V6cmpoNTk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqThAj0QKPxH7uzjpR/giphy.gif"/>
 
 <p>
-I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generater.
-
+I'm an AI, ML & Full-Stack Developer passionate about building intelligent software that solves real-world problems. From <b>AI-powered business solutions, Agentic AI and Retrieval-Augmented Generation Systems</b> to creating seamless user experiences, I bring ideas to life through code and creativity.
 </p>
 
 <p>
-My interests include <b>Artificial Intelligence, Data Science, Machine Learning, Software Development, and full-stack development.</b> I focus on creating practical, user-centered applications that solves Real world problem.
+My interests include <b>Artificial Intelligence, Data Science, Machine Learning, Software Development, and full-stack development.</b> I focus on creating practical, user-centered applications that solve complex problems.
 </p>
 
 <p>
@@ -104,17 +103,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### AI / Data Technologies
 
-<img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge&logo=openai"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-0A0A0A?style=for-the-badge&logo=opencv"/>
-
-<img src="https://img.shields.io/badge/RAG%20Systems-0A0A0A?style=for-the-badge&logo=databricks"/>
-
-<img src="https://img.shields.io/badge/Agentic%20AI-0A0A0A?style=for-the-badge&logo=openai"/>
-
-<img src="https://img.shields.io/badge/Data%20Analysis-0A0A0A?style=for-the-badge&logo=powerbi"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,postgres"/>
 
 </td>
 
@@ -122,7 +111,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase"/>
 
 </td>
 
@@ -134,7 +123,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,git,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=aws,git,vscode,docker,linux"/>
 
 </td>
 
@@ -142,11 +131,7 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### Development Areas
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-0A0A0A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Mobile%20App%20Development-0A0A0A?style=for-the-badge&logo=android"/>
-
-<img src="https://img.shields.io/badge/AI%20Application%20Development-0A0A0A?style=for-the-badge&logo=openai"/>
+<img src="https://skillicons.dev/icons?i=fastapi,jupyter,anaconda,github,bash"/>
 
 </td>
 
@@ -162,14 +147,13 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <div align="center">
 
-<!-- <p align="center">
-<img src="https://img.shields.io/github/stars/Nisxzn/Nisxzn?style=for-the-badge" alt="Stars" />
-<img src="https://img.shields.io/github/forks/Nisxzn/Nisxzn?style=for-the-badge" alt="Forks" />
-<img src="https://img.shields.io/github/languages/top/Nisxzn/Nisxzn?style=for-the-badge" alt="Top Language" />
-<img src="https://img.shields.io/github/last-commit/Nisxzn/Nisxzn?style=for-the-badge" alt="Last Commit" />
-</p> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Nisxzn&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisxzn&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisxzn&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisxzn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nisxzn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophy" />
 
 </div>
 
@@ -179,9 +163,4 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 ### <strong>Nithish Parameswaran</strong> — Building AI-powered digital experiences.
 
-
-
 </div>
-
-
-
